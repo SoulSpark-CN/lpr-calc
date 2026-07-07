@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://soulspark-cn.github.io/lpr-calc/sitemap.xml
