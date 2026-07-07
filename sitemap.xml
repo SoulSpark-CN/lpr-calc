@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://soulspark-cn.github.io/lpr-calc/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/jqbs.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/hfss.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/lpr2026.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/qszmb.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/mjjd.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/dejj.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/lprls.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://soulspark-cn.github.io/lpr-calc/pages/wtqa.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://lprjs.cn/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://lprjs.cn/pages/jqbs.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://lprjs.cn/pages/hfss.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://lprjs.cn/pages/lpr2026.html</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>https://lprjs.cn/pages/qszmb.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://lprjs.cn/pages/mjjd.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://lprjs.cn/pages/dejj.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://lprjs.cn/pages/lprls.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://lprjs.cn/pages/wtqa.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
